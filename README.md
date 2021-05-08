@@ -1,2 +1,3 @@
 # wordguessing
- 
+#own by ELLOKO-KONG-CHIRAC
+#ALL RIGHT RESERVE
